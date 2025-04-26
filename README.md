@@ -1,45 +1,38 @@
+# JetSetJourney ✈️🌍
 
+Welcome to **JetSetJourney** – your gateway to exploring the world! 🌎✨
 
-# International Travel Agency Landing Page
+JetSetJourney is an inspiring landing page for an international travel agency that connects travelers with exciting new destinations. Whether you're dreaming of sandy beaches or mountain adventures, this page will guide you to your next adventure with stunning visuals and detailed travel packages. 🏖️🌄
 
-A responsive and visually appealing landing page designed for an international travel agency. This project was developed as **Task 3** for the **Oasis Infobyte Website Development and Designing Internship**, focusing on creating an engaging user interface using HTML and CSS.
+## Features ✨
+- **Beautiful Design**: Eye-catching design that highlights the best destinations.
+- **Travel Packages**: Detailed information on travel deals, tours, and packages.
+- **Contact Information**: Easy access to booking, inquiries, and customer support.
+- **Responsive Layout**: Fully responsive design to look great on any device.
+- **Explore Now**: Jump straight into booking your next trip with clear calls to action!
 
-## 🌍 Features
+## How It Works ✈️
+1. **Explore Packages**: Browse through a range of curated travel deals.
+2. **Contact Us**: Get in touch for custom trips or any travel-related inquiries.
+3. **Plan Your Trip**: Find all the information you need to plan your adventure.
 
-- **Hero Section**: Captivating background image with a welcoming headline and call-to-action.
-- **Services Overview**: Highlights the key services offered by the travel agency.
-- **Responsive Design**: Ensures optimal viewing experience across various devices.
-- **Clean Layout**: Simple and intuitive design for easy navigation. ([anasahammad/travel-agency-landing-page - GitHub](https://github.com/anasahammad/travel-agency-landing-page?utm_source=chatgpt.com))
+## Technologies Used 🌍
+- HTML, CSS, JavaScript
+- Front-end: Bootstrap / Tailwind CSS (Optional for styling)
+- Animations: AOS (Animate On Scroll) for smooth effects
 
-## 🛠️ Technologies Used
-
-- **HTML5**: Structure of the web pages.
-- **CSS3**: Styling and layout.
-
-## 📁 Project Structure
-
-
-
-```plaintext
-├── index.html       # Main HTML file outlining the structure and content
-├── index.css        # CSS file responsible for styling the website
-├── background.jpg   # Background image used in the hero section
-└── README.md        # Project documentation
+## Getting Started ✈️
+Clone the repository:
+```
+git clone https://github.com/yourusername/JetSetJourney.git
+```
+Install dependencies:
+```
+npm install
+```
+Start the application:
+```
+npm start
 ```
 
-
-
-## 🚀 Getting Started
-
-To view the website locally:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/sneha280904/International-Travel-Agency-Landing-Page.git
-   cd International-Travel-Agency-Landing-Page
-   ```
-
-
-2. **Open `index.html` in your preferred web browser**.
-
+---
